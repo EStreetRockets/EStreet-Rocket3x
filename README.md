@@ -1,5 +1,5 @@
 # EStreet-Rocket3x
-Ziegler Launch System is a a small mod that adds a replica of Astra's Rocket 3.x launch vehicle to Kerbal Space Program, made through a collaboration between Beale and EStreetRockets. It can be used to launch small satellites and cubesats. It includes 6 parts: a cluster of 5 first stage "Delphin" engines, the first stage fuel tank, SAF fairing and interstage, a small decoupler, the second stage, and the seconds stage engine, "ether".
+Ziegler Launch System is a a small mod that adds a replica of Astra's Rocket 3.x launch vehicle to Kerbal Space Program, made through a collaboration between Beale and EStreetRockets. It can be used to launch small satellites and cubesats.
 
 ----
 
